@@ -17,6 +17,10 @@ ProGrand:
 [Katherine Piniol](https://github.com/piniolk)
 [Karen Wong](https://github.com/karenwong-kw)
 
+## Sample Video
+
+To see the video, click [here](https://github.com/427-ProGrand/moneycation.github.io/blob/main/images/SampleVideo.mp4) or navigate to the images folder of the moneycation.github.io repository. It's named "SampleVideo.mp4."
+
 ## User Guide
 ### Log In Page
 
@@ -64,5 +68,8 @@ User can log out when Moneycation is not in use to close access off from Planner
 
 ### Disclaimers
 
+Using this app requires you to download node, react, and all required packages. All instructions can be found [here.](https://github.com/427-ProGrand/Moneycation/blob/main/README.md)
 
 ### Release License/Copyright
+
+[Release Version 1.0.0](https://github.com/427-ProGrand/Moneycation/releases/tag/v1.0.0)
